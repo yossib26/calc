@@ -52,10 +52,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Yossi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,6 +96,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/pc" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="2765" y="443" width="520" height="274" key="#Notifications" timestamp="1591611027508">
       <screen x="1920" y="0" width="1920" height="1160" />
@@ -109,10 +114,14 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2598" y="305" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1591611915116" />
-    <state x="2397" y="220" key="SettingsEditor" timestamp="1591611583109">
+    <state x="2397" y="220" key="SettingsEditor" timestamp="1591613186904">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="2397" y="220" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1591611583109" />
+    <state x="2397" y="220" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1591613186904" />
+    <state x="2463" y="251" key="Vcs.Push.Dialog.v2" timestamp="1591613034599">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2463" y="251" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1591613034599" />
     <state x="2012" y="92" width="1736" height="976" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591612081050">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
